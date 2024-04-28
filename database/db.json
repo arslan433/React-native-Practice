@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Arslan",
+      "age": "20",
+      "email": " arslan@gamil.com "
+    },
+    {
+      "id": "2",
+      "name": "peter",
+      "age": "19",
+      "email": " peter@gamil.com "
+    },
+    {
+      "name": "json-server --host 0.0.0.0 db.json",
+      "id": "4"
+    },
+    {
+      "name": "musafir",
+      "age": "453",
+      "email": "arsl@text.com",
+      "id": "32"
+    },
+    {
+      "name": "syco",
+      "age": "45",
+      "email": "arsl@text.com",
+      "id": "33"
+    },
+    {
+      "name": "Arslan",
+      "age": "12",
+      "email": "arsl@text.com",
+      "id": "34"
+    },
+    {
+      "name": "Arslansyco",
+      "age": "23",
+      "email": "arsl@text.com",
+      "id": "11"
+    },
+    {
+      "id": "4d1c",
+      "age": "30",
+      "name": "Arslan",
+      "email": "arslan@gmal.com"
+    },
+    {
+      "id": "8868",
+      "age": "30",
+      "name": "Arslan",
+      "email": "arslan@gmal.com"
+    }
+  ]
+}
